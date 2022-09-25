@@ -4,7 +4,7 @@
 
 ![Header](https://raw.githubusercontent.com/aniket162002/aniket162002/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Aniket</h1>
+
 <h3 align="center">I'm an Full stack developer who is passionate about making contribution to open-source more approachable, to elevate people, and building communities. Some technologies. I enjoy working with includes React , node.js , MongoDB & Java. Apart from tech I am learning App Development also and also I am good at Photo Editing.</h3>
 
 - 📫 How to reach me **shindeaniket47328@gmail.com**

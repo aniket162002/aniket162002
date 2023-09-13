@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shindeaniket47328@gmail.com**
 
-- 📫 You Wanna See My Portfolio :-1. https://aniketwebsite.netlify.app 2. https://aniketwebs.netlify.app
+- 📫 You Wanna See My Portfolio :-1. https://aniketwebsite.netlify.app 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
